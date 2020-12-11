@@ -27,3 +27,6 @@ https://www.figma.com/proto/yUFz0M2qGwFViPH1uCKtDN/ZenApp?node-id=1%3A2&scaling=
 
 Studium (Study Scheduling App):
 https://www.figma.com/proto/ym3olsrpF7UGiKoil08pr4/AppDesign?node-id=0%3A1&scaling=scale-down
+
+Jibe (Electronics Website):
+https://www.figma.com/proto/QknBPMGuUFZUFdSuAL4OJk/Jibe?node-id=0%3A1&scaling=min-zoom
